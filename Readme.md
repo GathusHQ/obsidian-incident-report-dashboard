@@ -1,5 +1,14 @@
 ## 📘 **Obsidian Incident Report Dashboard**
 
+<p align="center">
+  <a href="https://github.com/GathusHQ/obsidian-incident-report-dashboard/releases">
+    <img src="https://img.shields.io/github/downloads/GathusHQ/obsidian-incident-report-dashboard/total.svg" alt="Downloads">
+  </a>
+  <a href="https://github.com/GathusHQ/obsidian-incident-report-dashboard/releases">
+    <img src="https://img.shields.io/github/v/release/GathusHQ/obsidian-incident-report-dashboard.svg" alt="Latest Release">
+  </a>
+</p>
+
 A clean, professional system for tracking community incidents inside Obsidian.  
 Includes a beautiful dashboard, an easy-to-use submission form, and automatic status updates.
 
