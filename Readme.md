@@ -60,7 +60,7 @@ These match the environment used to create the screenshots and help the dashboar
 
 ## Screenshots
 
-Main Dashboard
+### Main Dashboard
 ![Dashboard – Part 1](screenshots/Incident%20Reports%20Dashboard%201.png)
 ![Dashboard – Part 2](screenshots/Incident%20Reports%20Dashboard%202.png)
 ![Dashboard – Part 3](screenshots/Incident%20Reports%20Dashboard%203.png)
@@ -68,7 +68,7 @@ Main Dashboard
 ![Dashboard – Part 5](screenshots/Incident%20Reports%20Dashboard%205.png)
 ![Dashboard – Part 6](screenshots/Incident%20Reports%20Dashboard%206.png)
 
-Incident Report
+### Incident Report
 ![Report Page – Part 1](screenshots/Incident%20Report%20Page%201.png)
 ![Report Page – Part 2](screenshots/Incident%20Report%20Page%202.png)
 ![Report Page – Part 3](screenshots/Incident%20Report%20Page%203.png)
