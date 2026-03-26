@@ -3,6 +3,9 @@
 A clean, professional system for tracking community incidents inside Obsidian.  
 Includes a beautiful dashboard, an easy-to-use submission form, and automatic status updates.
 
+👉 **Download the latest version (ZIP)**  
+https://github.com/GathusHQ/obsidian-incident-report-dashboard/releases
+
 ### ✨ Features
 - Overview cards showing Open / In-Progress / Closed counts
 - Monthly severity trends
