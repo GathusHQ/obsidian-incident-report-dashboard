@@ -1,12 +1,7 @@
 ## 📘 **Obsidian Incident Report Dashboard**
 
 <p align="center">
-  <a href="https://github.com/GathusHQ/obsidian-incident-report-dashboard/releases">
-    <img src="https://img.shields.io/github/downloads/GathusHQ/obsidian-incident-report-dashboard/total.svg" alt="Downloads">
-  </a>
-  <a href="https://github.com/GathusHQ/obsidian-incident-report-dashboard/releases">
-    <img src="https://img.shields.io/github/v/release/GathusHQ/obsidian-incident-report-dashboard.svg" alt="Latest Release">
-  </a>
+  <a href="https://github.com/GathusHQ/obsidian-incident-report-dashboard/releases"><img src="https://img.shields.io/github/downloads/GathusHQ/obsidian-incident-report-dashboard/total?style=for-the-badge&color=blue" /></a> <a href="https://github.com/GathusHQ/obsidian-incident-report-dashboard/releases"><img src="https://img.shields.io/github/v/release/GathusHQ/obsidian-incident-report-dashboard?style=for-the-badge&color=gold" /></a>
 </p>
 
 A clean, professional system for tracking community incidents inside Obsidian.  
